@@ -2,7 +2,7 @@
 
 🇫🇷 24 ans | Français | Actuellement en formation à **l'école 42**  
 💻 Je code principalement en **C** (mais pas que...)  
-🧠 Intéressé par la **Cybersécurité**, la **Blockchain**, et les **jeux vidéo**
+🧠 Intéressé par la **Cybersécurité**, la **Blockchain**, et les **jeux vidéo** 
 
 ---
 
