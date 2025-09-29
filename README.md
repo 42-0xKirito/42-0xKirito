@@ -1,8 +1,8 @@
 ### Hi! I'm Kirito 👋
 
-🇫🇷 24 years old | French | Currently studying at **42 School**
-💻 I mainly code in **C** (but not only...)
-🧠 Interested in **Cybersecurity**, **Blockchain**, and **Video Games**
+🇫🇷 24 years old | French | Currently studying at **42 School** 
+💻 I mainly code in **C** (but not only...) 
+🧠 Interested in **Cybersecurity**, **Blockchain**, and **Video Games** 
 
 ---
 
